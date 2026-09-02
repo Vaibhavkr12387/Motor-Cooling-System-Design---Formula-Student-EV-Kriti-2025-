@@ -1,4 +1,4 @@
-# Motor Cooling System Design - Formula Student EV (Kriti 2025)
+# Motor Cooling System Design (Kriti 2025)
 
 This repository contains the thermal management system design and MATLAB/Simulink simulations for an EMRAX 208 motor in a Formula Student electric vehicle.
 
